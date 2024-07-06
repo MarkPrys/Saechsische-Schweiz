@@ -36,16 +36,16 @@ const LAYERS = {
     // },
 
     {
-      name: "Kartenaufnahme der Rheinlande 1803-1820",
-      url: "data/maps/1803-1820_0.jpg",
+      name: "Saechsische Schweiz 1939",
+      url: "data/maps/SaechsischeSchweiz1939_ref.jpg",
       world: {
-        file: "data/maps/1803-1820_0.jgw",
+        file: "data/maps/SaechsischeSchweiz1939_ref.jgw",
         proj: "UTM",
-        zone: 32,
+        zone: 33,
         band: "N",
       },
       options: {
-        age: 1803,
+        age: 1933,
       },
     },
 
@@ -90,25 +90,25 @@ const LAYERS = {
     //     age: 2023,
     //   },
     // },
-    {
-      name: "Weiler TK25 2024",
-      url: "data/maps/Weiler_UTM32.jpg",
-      world: {
-        file: "data/maps/Weiler_UTM32.jgw",
-        proj: "UTM",
-        zone: 32,
-        band: "N",
-      },
-      options: {
-        age: 2024,
-      },
-    },
+    // {
+    //   name: "Weiler TK25 2024",
+    //   url: "data/maps/Weiler_UTM32.jpg",
+    //   world: {
+    //     file: "data/maps/Weiler_UTM32.jgw",
+    //     proj: "UTM",
+    //     zone: 32,
+    //     band: "N",
+    //   },
+    //   options: {
+    //     age: 2024,
+    //   },
+    // },
   ],
   // /* OSM Rasterkarten */
   pmtiles: [
     {
-      name: "OpenStreetMap 04/2024",
-      url: "data/maps/test.pmtiles",
+      name: "WMSKarte",
+      url: "data/maps/WMS.pmtiles",
       options: {
         age: 2024,
       },
@@ -119,7 +119,7 @@ const LAYERS = {
   geojson: [
     {
       name: "Touristenroute",
-      url: "data/overlays/WeilerTour.geojson",
+      url: "data/overlays/malerweg.geojson",
       options: {
         age: 1,
       },
@@ -133,13 +133,13 @@ const LAYERS = {
     //   },
     // },
 
-    {
-      name: "Weiler Punkte Test",
-      url: "data/overlays/WeilerPunkte.geojson",
-      options: {
-        age: 2,
-      },
-    },
+    // {
+    //   name: "Weiler Punkte Test",
+    //   url: "data/overlays/WeilerPunkte.geojson",
+    //   options: {
+    //     age: 2,
+    //   },
+    // },
     // {
     //   name: "Infopunkte",
     //   url: "data/overlays/Infopunkte.geojson",
@@ -147,20 +147,20 @@ const LAYERS = {
     //     age: 2,
     //   },  
     // },
-    {
-      name: "PDF Test",
-      url: "data/overlays/PDFs.geojson",
-      options: {
-        age: 3,
-      },
-    },
-    {
-      name: "Video Test",
-      url: "data/overlays/Videos.geojson",
-      options: {
-        age: 4,
-      },
-    },
+    // {
+    //   name: "PDF Test",
+    //   url: "data/overlays/PDFs.geojson",
+    //   options: {
+    //     age: 3,
+    //   },
+    // },
+    // {
+    //   name: "Video Test",
+    //   url: "data/overlays/Videos.geojson",
+    //   options: {
+    //     age: 4,
+    //   },
+    // },
     // {
     //   name: "Weiler POIs",
     //   url: "data/overlays/Weiler.geojson",
