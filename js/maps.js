@@ -49,19 +49,47 @@ const LAYERS = {
       },
     },
 
-    // {
-    //   name: "Preuß. Uraufnahme 1843-1879",
-    //   url: "data/maps/Friedrichssegen_Uraufnahme.jpg",
-    //   world: {
-    //     file: "data/maps/Friedrichssegen_Uraufnahme.jgw",
-    //     proj: "UTM",
-    //     zone: 32,
-    //     band: "N",
-    //   },
-    //   options: {
-    //     age: 1879,
-    //   },
-    // },
+    {
+      name: "Die Saechsich-Boehmische Schweiz",
+      url: "data/maps/Die Saechsich-Boehmische Schweiz.jpg",
+      world: {
+        file: "data/maps/Die Saechsich-Boehmische Schweiz.jgw",
+        proj: "UTM",
+        zone: 33,
+        band: "N",
+      },
+      options: {
+        age: 1879,
+      },
+    },
+
+    {
+      name: "Elbsandsteingebirge",
+      url: "data/maps/Elbsandsteingebirge.jpg",
+      world: {
+        file: "data/maps/Elbsandsteingebirge.jgw",
+        proj: "UTM",
+        zone: 33,
+        band: "N",
+      },
+      options: {
+        age: 1879,
+      },
+    },
+
+    {
+      name: "Schrammsteingebiet",
+      url: "data/maps/Schrammsteingebiet.jpg",
+      world: {
+        file: "data/maps/Schrammsteingebiet.jgw",
+        proj: "UTM",
+        zone: 33,
+        band: "N",
+      },
+      options: {
+        age: 1879,
+      },
+    },
 
 
     // {
@@ -133,13 +161,13 @@ const LAYERS = {
     //   },
     // },
 
-    // {
-    //   name: "Weiler Punkte Test",
-    //   url: "data/overlays/WeilerPunkte.geojson",
-    //   options: {
-    //     age: 2,
-    //   },
-    // },
+    {
+      name: "Tafeln",
+      url: "data/overlays/tafeln_pkt.geojson",
+      options: {
+        age: 2,
+      },
+    },
     // {
     //   name: "Infopunkte",
     //   url: "data/overlays/Infopunkte.geojson",

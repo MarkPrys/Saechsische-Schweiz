@@ -1,0 +1,372 @@
+{
+"type":"FeatureCollection",
+   "name":"Tafeln_pkt_0",
+   "crs":{
+      "type":"name",
+      "properties":{
+         "name":"urn:ogc:def:crs:OGC:1.3:CRS84"
+      }
+   },
+   "features":[
+      {
+         "type": "Feature",
+      "properties": {
+        "Id": 1,
+        "stroke": "#ff6e00",
+        "stroke-opacity": 0.75,
+        "stroke-width": 6,
+        "Objekt": "Liebethaler Grund",
+        "PDF": ["./data/content/pdf/1_Liebethaler_Grund.pdf"]
+      },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               13.954781122868042,
+               50.995611123026535
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Id": 2,
+            "stroke": "#ff6e00",
+            "stroke-opacity": 0.75,
+            "stroke-width": 6,
+            "Objekt": "Lohmen",
+            "PDF": ["./data/content/pdf/2_Lohmen.pdf"]
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               13.983836,
+               50.994589000922311
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Id": 3,
+            "stroke": "#ff6e00",
+            "stroke-opacity": 0.75,
+            "stroke-width": 6,
+            "Objekt": "Uttewalder Grund",
+            "PDF": ["./data/content/pdf/3_Uttewalder_Grund.pdf"]
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.039309,
+               50.97717900092244
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Id": 4,
+            "stroke": "#ff6e00",
+            "stroke-opacity": 0.75,
+            "stroke-width": 6,
+            "Objekt": "Wehlen",
+            "PDF": ["./data/content/pdf/4_Wehlen.pdf"]
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.038896,
+               50.95826900092257
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Id": 5,
+            "stroke": "#ff6e00",
+            "stroke-opacity": 0.75,
+            "stroke-width": 6,
+            "Objekt": "*** ***",
+            "PDF": ["./data/content/pdf/3_Uttewalder_Grund.pdf"]
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.05841,
+               50.966646000922509
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Id": 6,
+            "stroke": "#ff6e00",
+            "stroke-opacity": 0.75,
+            "stroke-width": 6,
+            "Objekt": "Bastei und Neurathen",
+            "PDF": ["./data/content/pdf/6_Bastei_und_Neurathen.pdf"]
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.076331,
+               50.961016000922548
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Id": 7,
+            "stroke": "#ff6e00",
+            "stroke-opacity": 0.75,
+            "stroke-width": 6,
+            "Objekt": "Rathen",
+            "PDF": ["./data/content/pdf/7_Rathen.pdf"]
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.079452,
+               50.960898000922541
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Id": 8,
+            "stroke": "#ff6e00",
+            "stroke-opacity": 0.75,
+            "stroke-width": 6,
+            "Objekt": "Amelgrund und Amselhöhle",
+            "PDF": ["./data/content/pdf/8_Amelgrund_und_Amselhoehle.pdf"]
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.079311,
+               50.964045000922532
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Id": 9,
+            "stroke": "#ff6e00",
+            "stroke-opacity": 0.75,
+            "stroke-width": 6,
+            "Objekt": "Hockstein und Polenztal",
+            "PDF": ["./data/content/pdf/9_Hockstein_und_Polenztal.pdf"]
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.101111,
+               50.979899000922444
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Id": 10,
+            "stroke": "#ff6e00",
+            "stroke-opacity": 0.75,
+            "stroke-width": 6,
+            "Objekt": "Hohnstein",
+            "PDF": ["./data/content/pdf/10_Hohnstein.pdf"]
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.107914,
+               50.97839200092244
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Id": 11,
+            "stroke": "#ff6e00",
+            "stroke-opacity": 0.75,
+            "stroke-width": 6,
+            "Objekt": "Brand",
+            "PDF": ["./data/content/pdf/11_Brand.pdf"]
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.126158,
+               50.957514000922586
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Id": 12,
+            "stroke": "#ff6e00",
+            "stroke-opacity": 0.75,
+            "stroke-width": 6,
+            "Objekt": "Prossen und Schandau",
+            "PDF": ["./data/content/pdf/12_Prossen_und_Schandau.pdf"]
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.116713527157113,
+               50.929559142012465
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Id": 13,
+            "stroke": "#ff6e00",
+            "stroke-opacity": 0.75,
+            "stroke-width": 6,
+            "Objekt": "*** ***",
+            "PDF": ["./data/content/pdf/12_Prossen_und_Schandau.pdf"]
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.137408103215343,
+               50.923067142513105
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Id": 14,
+            "stroke": "#ff6e00",
+            "stroke-opacity": 0.75,
+            "stroke-width": 6,
+            "Objekt": "Kirnitzschtal",
+            "PDF": ["./data/content/pdf/14_Kirnitzschtal.pdf"]
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.173690177522333,
+               50.924493923437282
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Id": 15,
+            "stroke": "#ff6e00",
+            "stroke-opacity": 0.75,
+            "stroke-width": 6,
+            "Objekt": "Kuhstallhöhle",
+            "PDF": ["./data/content/pdf/15_Kuhstallhooehle.pdf"]
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.253939,
+               50.926826000922787
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Id": 16,
+            "stroke": "#ff6e00",
+            "stroke-opacity": 0.75,
+            "stroke-width": 6,
+            "Objekt": "Kleiner und Großer Winterberg",
+            "PDF": ["./data/content/pdf/16_Kleiner_und_Grosser_Winterberg.pdf"]
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.251031,
+               50.894496000923006
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Id": 17,
+            "stroke": "#ff6e00",
+            "stroke-opacity": 0.75,
+            "stroke-width": 6,
+            "Objekt": "Prebischtor und Prebischkegel",
+            "PDF": ["./data/content/pdf/17_Prebischtor_und_Prebischkegel.pdf"]
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.284279341584957,
+               50.891068944440377
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Id": 18,
+            "stroke": "#ff6e00",
+            "stroke-opacity": 0.75,
+            "stroke-width": 6,
+            "Objekt": "Herrnskretschen",
+            "PDF": ["./data/content/pdf/18_Herrnskretschen.pdf"]
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.240017418672076,
+               50.8770590965838
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Id": 19,
+            "stroke": "#ff6e00",
+            "stroke-opacity": 0.75,
+            "stroke-width": 6,
+            "Objekt": "Königstein",
+            "PDF": ["./data/content/pdf/19_Koenigstein.pdf"]
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.055957,
+               50.917643000922851
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Id": 20,
+            "stroke": "#ff6e00",
+            "stroke-opacity": 0.75,
+            "stroke-width": 6,
+            "Objekt": "Lilienstein",
+            "PDF": ["./data/content/pdf/20_Lilienstein.pdf"]
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               14.086251515376354,
+               50.930950034200201
+            ]
+         }
+      }
+   ]
+}
