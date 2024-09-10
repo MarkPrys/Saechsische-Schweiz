@@ -268,7 +268,7 @@
             "stroke-opacity": 0.75,
             "stroke-width": 6,
             "Objekt": "Kuhstallhöhle",
-            "PDF": ["./data/content/pdf/15_Kuhstallhooehle.pdf"]
+            "PDF": ["./data/content/pdf/15_Kuhstallhoehle.pdf"]
          },
          "geometry":{
             "type":"Point",
