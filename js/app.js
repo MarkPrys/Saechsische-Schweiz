@@ -81,7 +81,7 @@ i18next.init(
             noGPS: "No access to the current position allowed.",
           },
           info: {
-            title: "Friedrichssegen App",
+            title: "Historischer Malerweg",
             fossCredits: "Open Source Credits",
             movisdaCredits: "movisda GmbH",
           },
@@ -110,7 +110,7 @@ i18next.init(
             noGPS: "Kein Zugriff auf die aktuelle Position erlaubt.",
           },
           info: {
-            title: "Friedrichssegen Anwendung",
+            title: "Historischer Malerweg Anwendung",
             fossCredits: "Verwendete quelloffene Bibliotheken",
             movisdaCredits: "movisda GmbH",
           },
