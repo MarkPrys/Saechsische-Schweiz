@@ -90,6 +90,19 @@ const LAYERS = {
         age: 1879,
       },
     },
+    {
+      name: "Open Street Maps",
+      url: "data/maps/Malerweg_OSM.jpg",
+      world: {
+        file: "data/maps/Malerweg_OSM.jgw",
+        proj: "UTM",
+        zone: 33,
+        band: "N",
+      },
+      options: {
+        age: 2024,
+      },
+    },
 
 
     // {
@@ -141,7 +154,6 @@ const LAYERS = {
         age: 2024,
       },
     },
-
   ],
   /* GeoJSON overlays */
   geojson: [
