@@ -1,7 +1,7 @@
 {
-  "name": "Friedrichssegen App",
-  "short_name": "Friedrichssegen App",
-  "description": "Entdecken der Gegend von Friedrichssegen",
+  "name": "Historischer Malerweg App",
+  "short_name": "Historischer Malerweg App",
+  "description": "Entdecken der Gegend von Sächsische Schweiz",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "white",

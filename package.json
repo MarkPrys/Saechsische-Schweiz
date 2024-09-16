@@ -1,7 +1,7 @@
 {
-  "name": "friedrichssegen.app",
+  "name": "Saechsische-Schweiz",
   "version": "0.9.6",
-  "description": "Tour around Friedrichssegen",
+  "description": "Tour around Saechsische Schweiz",
   "author": "movisda GmbH",
   "license": "Closed Source",
   "main": "js/app.js",
@@ -35,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.movisda.de/movisda/prj/viriditas/friedrichssegen.app"
+    "url": "https://github.com/MarkPrys/Saechsische-Schweiz"
   },
   "keywords": [
     "pwa",
