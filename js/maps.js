@@ -148,8 +148,8 @@ const LAYERS = {
   // /* OSM Rasterkarten */
   pmtiles: [
     {
-      name: "WMSKarte",
-      url: "data/maps/WMS.pmtiles",
+      name: "OSM Karte",
+      url: "data/maps/osm-map.pmtiles",
       options: {
         age: 2024,
       },
